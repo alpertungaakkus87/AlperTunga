@@ -1,0 +1,7 @@
+echo "# AlperTunga87" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk taahhüt" 
+git branch -M main 
+git remote add Origin https://github.com/alpertungaakkus87/AlperTunga87.git
+ git push - asıl sen
